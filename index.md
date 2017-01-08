@@ -8,6 +8,6 @@ It was also short.
 The longest part was making the display.
 But I also took a lot of expiriments.
 I took 10  expiriments.
-It was easy to getthe materials.
+It was easy to get the materials.
 They were cheap!
  
