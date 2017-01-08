@@ -1,6 +1,6 @@
- ## Welcome to Juan’s Science Project
+ ##   Welcome to Juan’s Science Project
 
- #Do mints cool things down ?
+ #  Do mints cool things down ?
 
 ### Jekyll Themes
 
