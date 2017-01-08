@@ -1,8 +1,7 @@
 ## Welcome to Juan's Science Project
 
 # Do mints cool things down ?
-I'm going to try to .....
-
+kuygkjygkgygy
 
 You can use the [editor on GitHub](https://github.com/juanmi07/science-fair-2017/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
