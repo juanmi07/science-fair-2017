@@ -1,8 +1,7 @@
- ##   Welcome to Juan’s Science Project
+ ###  Welcome to Juan’s Science Project
 
- #  Do mints cool things down ?
-
-### Jekyll Themes
+ ##  Do mints cool things down ?
+This project is fun . I enjoyed doing it.
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/juanmi07/science-fair-2017/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
